@@ -82,7 +82,7 @@ nav a:hover{
 color: #cffaef; 
 
 margin-left: 10px;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-family: monospace;
 }
 button{
     background-color: #287ee8;
